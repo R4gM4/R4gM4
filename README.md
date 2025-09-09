@@ -1,3 +1,2 @@
 # R4gM4
-L'oiseau boit de l'eau.
-Chaque chaton est mignon.
+<video src="./assets/zinzin.mp4" width="100%" controls></video>
