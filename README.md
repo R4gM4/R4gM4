@@ -1,8 +1,5 @@
 # R4gM4
-<video src="https://github.com/USER/REPO/blob/BRANCH/assets/mexicanocat.mp4?raw=1" 
-       width="600" controls muted loop playsinline>
-  Ton navigateur ne supporte pas la vidéo. 
-  <a href="https://github.com/USER/REPO/blob/BRANCH/assets/mexicanocat.mp4?raw=1">Voir la vidéo</a>.
-</video>
+
+[![YOUHOU](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fyoutube.com%2Fshorts%2FopnKt8U9ryU%3Fsi%3Djj1trZq94RYrcPnf)](https://youtube.com/shorts/opnKt8U9ryU?si=jj1trZq94RYrcPnf)
 
 Le test continue...
